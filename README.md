@@ -4,7 +4,7 @@
 An open community of Python enthusiasts who pursue Python mastery and seek to contribute to the mission of the global Python community.
 
 # Organization
-Michigan Python is an open-source organization organized on [Github](https://github.com/MichiganPython) and [Slack](http://bit.ly/join-mipy). That means that you can submit a pull request to modify the organization at any time and we will decide if we want to incorporate your ideas into the community. [See Contributing](#Contributing)
+Michigan Python is an open-source organization organized on [Github](https://github.com/MichiganPython) and [Slack](http://bit.ly/join-mipy). That means that you can submit a pull request to modify the organization at any time and we will decide if we want to incorporate your ideas into the community. [See Contributing](#contributing)
 
 # Sponsorship
 To fulfill our vision for this group, we have  company sponsorship as well as *optional* member contributions. Companies and members who contribute will be recognized for their contribution at every meeting. Sponsorship is handled at [OpenCollective](https://opencollective.com/michiganpython) (*All expenses for the community are public on [OpenCollective](https://opencollective.com/michiganpython) as well*).
